@@ -34,5 +34,10 @@ This repository is created to strengthen Python fundamentals through hands-on pr
 
 ---
 
+## Output Preview 
+![Calculator Output](calculator/calculator-output.png)
+
+---
+
 ## 👩‍💻 Author
 Megha Pise
